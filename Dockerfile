@@ -1,6 +1,6 @@
 FROM alpine:3.8
 
-LABEL maintainer="Peter Dave Hello <hsu@peterdavehello.org>"
+LABEL maintainer="Karl Fischer <fishi0x01@gmail.com>"
 LABEL name="tor-socks-proxy"
 LABEL version="latest"
 
